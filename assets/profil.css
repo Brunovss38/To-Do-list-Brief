@@ -1,0 +1,7 @@
+#buttonProfil{
+    display: flex;
+    justify-content: end;
+    margin: 20px 94px 0 0;
+    gap: 18px;
+}
+

@@ -1,0 +1,34 @@
+.form-control:focus,
+.list-group-item.active {
+  background-color: #FFDC02;
+  border-color: #193375;
+}
+
+.col-md-4 {
+  width: 20%;
+}
+
+.col-12 {
+  display: flex;
+  justify-content: end;
+}
+
+.btn-primary {
+  --bs-btn-bg: #19AE47;
+  --bs-btn-border-color: #ffecec;
+  --bs-btn-hover-bg: #0C87D1;
+  --bs-btn-hover-border-color: #ff0040;
+  --bs-btn-active-bg: #9bf7b4;
+  --bs-btn-active-border-color: #ea2052;
+  --bs-btn-disabled-bg: #9bf7be;
+  --bs-btn-disabled-border-color: #ccf79b;
+}
+
+.btn-secondary {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #f1d500;
+  --bs-btn-border-color: #6c757d;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #007fff;
+  --bs-btn-hover-border-color: #565e64;
+}
